@@ -1,0 +1,84 @@
+#est{
+    font-family:brush script MT; 
+    font-size: 50px;
+    position: absolute;
+  top: 35%;
+  left: 9%;
+  margin: -10px 0 0 -10px;
+}
+#esti{
+    background-color: #E8DAEF ;
+}
+.estilos{
+    background-color: #EBF5FB ;
+}
+#fam{
+    font-size: 20px;
+    font-family: optima;
+    position: sticky;
+    top: 45%;
+    left: 5%;
+}
+#moda{
+    font-family:brush script MT; 
+    font-size: 50px;
+    background-color: #FFE4E1;
+}
+#enc{
+    background-color: #FFE4E1;
+    position: absolute;
+    top: 8%;
+  left: 66%;
+}
+#pt{
+    background-color: #F8F8FF;
+}
+.jeans{
+    width: 250px ;
+    left: 100px;
+}
+#hym{
+    width: 75px ;
+    left: 100px;
+    
+}
+.pato{
+    font-family: "HM Sans Regular", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, メイリオ, Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+#cha{
+    width: 150px ;
+    left: 100px;
+}
+#pat{
+ background-color: #E6E6FA;
+}
+#papel{
+    background-color: 	#ADD8E6;
+}
+#papelito{
+    font-family:brush script MT; 
+    font-size: 50px;
+    position: absolute;
+  top: 28%;
+  left: 15%;
+  margin: -10px 0 0 -10px;
+}
+#cuadro{
+    width: 450px ;
+    left: 100px;
+}
+#bomer{
+    width: 450px ;
+    left: 100px;
+}
+#j{
+    width: 450px ;
+    left: 100px;
+}
+#color{
+    background-color: #E6E6FA;
+}
+#button{
+    font-family:brush script MT; 
+    font-size: 30px;
+}
